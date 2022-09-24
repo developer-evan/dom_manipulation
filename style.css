@@ -1,0 +1,50 @@
+*{
+box-sizing: border-box;
+}
+.change{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    border: 2px solid blue;
+}
+.bod{
+    background: #000e35;
+    color: #fff;
+
+}
+.page{
+    margin-left: 400px;
+
+}
+.title{
+    /* text-align: center; */
+    color: #225dff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list-input{
+    border: 2px solid #0d4cf8;
+    color: #215bfa;
+    /* text-align: center; */
+    padding: 2px;
+    border-radius: 5px;
+    height: 30px;
+
+}
+.addBtn{
+    color: #1552f8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:1px solid #104ef7 ;
+    border-radius: 5px;
+    height: 30px;
+    
+    
+}
+.name-list{
+    background: #104ef7;
+    color: #dfe2eb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   list-style:lower-roman;
+   width:270px;
+   
+}
